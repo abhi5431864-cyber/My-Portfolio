@@ -10,7 +10,7 @@ body {
   background-color: #f4f6f9; 
   gap: 20px;
 }
-.header {
+header {
   background-color: #1a2434;
   text-align: center;
   padding: 50px;
